@@ -1,0 +1,9 @@
+amount,description,category,location,payment_method,notes,date
+1.0,string,string,scg,string,string,2026-06-23 05:13:45.610000+00:00
+1.0,string,string,scg,string,string,2026-06-23 05:13:45.610000+00:00
+1.0,string,string,scg,string,string,2026-06-23 05:13:45.610000+00:00
+100.0,Test transaction,,,,,2026-06-23 02:50:48.288569
+100.0,Test transaction,,,,,2026-06-23 02:50:48.288569
+100.0,Test transaction,,,,,2026-06-23 02:52:50.017580
+5.0,gasto sem descricao,,,,,2026-06-23 02:52:50.017580
+27.0,gastos na praia,,,,,2026-06-23 02:52:50.017580
